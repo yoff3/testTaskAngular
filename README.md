@@ -1,6 +1,7 @@
 # TestTaskAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4.
+OS for running the project is ubuntu. To run styles it is required to install bulma (bulma.io) framework by command 'npm install --save bulma' at the project directory. Then we go the the node_modules project folder and look for bulma folder. Copy path of the bulma.css file and insert it into the angular.json file. It goes to the "styles" array. Now the application is ready to get started.
 
 ## Development server
 
